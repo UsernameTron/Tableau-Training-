@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+matplotlib
+git add requirements.txt
+git commit -m "Added requirements.txt with necessary dependencies"
+git push
